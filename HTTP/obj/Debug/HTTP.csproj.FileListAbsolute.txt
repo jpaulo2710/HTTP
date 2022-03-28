@@ -1,0 +1,21 @@
+C:\Users\victo\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\victo\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\victo\source\repos\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\victo\source\repos\HTTP\HTTP\obj\Debug\HTTP.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\victo\source\repos\HTTP\HTTP\obj\Debug\HTTP.pdb
+C:\Users\victo\source\repos\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victo\source\repos\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victo\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CopyComplete
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.csproj.CopyComplete
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\HTTP\HTTP\obj\Debug\HTTP.pdb
